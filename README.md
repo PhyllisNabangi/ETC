@@ -1,2 +1,2 @@
-# ETC
+# ETCIVCODEKAMPALA
 Class assignments 
