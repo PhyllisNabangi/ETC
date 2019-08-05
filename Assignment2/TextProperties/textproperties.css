@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(122, 2, 8);
+    word-spacing: 20px;
+    
+}
+p.ident {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+p.direction{
+    direction: rtl;
+}
+
+p.small {
+    line-height: 100%;
+    letter-spacing: 5px;
+}
+
+p.big {
+    line-height: 200%;
+}
+
+body {
+    font-size: 30px;
+}
+
+.san {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-variant: small-caps;
+
+}
+
+.serif{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+ 
+ }
+
+#caps{
+    font-variant: small-caps;
+}
