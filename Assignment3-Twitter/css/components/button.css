@@ -1,0 +1,27 @@
+.button-1{
+    border-radius: 100px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 20px;
+    padding: 6px 16px;
+    border-color: #1da1f2;
+    
+}
+
+.signup{
+    background-color: #1da1f2;
+    color: white;
+}
+
+.login{
+    background-color: white;
+    color:  #1da1f2;
+    
+}
+ .pwd{
+    
+    background-color:rgb(228, 240, 240);
+    padding: 5px;
+    
+ }

@@ -1,0 +1,15 @@
+/**.icons{
+    font-weight: normal;
+    background: transparent;
+    display: inline-block;
+    vertical-align: baseline;
+    position: relative;
+}**/
+
+.icons{
+    padding: 15px;
+}
+
+.bicon{
+    padding: 50px 100px 100px 100px;
+}
