@@ -1,0 +1,53 @@
+.maindiv{
+    margin: 100px 300px;
+    text-align: center;
+     
+}
+h1{
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3.5rem;
+    font-variant-caps: all-small-caps;
+}
+
+body{
+    background-color:rgb(212, 232, 250);
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 1.15rem;
+}
+
+.one{
+    background-color:aliceblue; 
+    padding: 20px;   
+    box-shadow: 10px 10px 10px rgb(199, 198, 198);
+}
+
+.two{
+    background-color:aliceblue; 
+    height: 30%;     
+    box-shadow: 10px 10px 10px rgb(199, 198, 198);
+}
+
+.three{
+    background-color:aliceblue; 
+    height: 30%;   
+    box-shadow: 10px 10px 10px rgb(199, 198, 198);
+}
+
+.four{
+    background-color:aliceblue; 
+    height: 30%;   
+    box-shadow: 10px 10px 10px rgb(199, 198, 198);
+} 
+
+.pad{
+    padding-top: 20pt;
+}
+
+p a{
+    text-decoration: none;
+
+}
